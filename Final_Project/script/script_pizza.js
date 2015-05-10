@@ -1,0 +1,1 @@
+alert("Pizza is always right")
